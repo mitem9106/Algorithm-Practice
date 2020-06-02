@@ -4,7 +4,7 @@
 
 #The main problem with this counting sort is that we cannot sort the elements
 #if we have negative numbers in it. Getting around that requires storing the
-#count of the minimum element at zero index.
+#count of the minimum element at zero index.git 
 
 
 def main():
